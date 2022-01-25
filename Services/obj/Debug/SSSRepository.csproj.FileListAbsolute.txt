@@ -1,0 +1,60 @@
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.dll.config
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.dll
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.pdb
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.dll
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.dll
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.xml
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.xml
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+I:\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+I:\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CoreCompileInputs.cache
+I:\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CopyComplete
+I:\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\Services.dll
+I:\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\Services.pdb
+I:\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csprojAssemblyReference.cache
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.dll.config
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.dll
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Services.pdb
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.dll
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.xml
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csprojAssemblyReference.cache
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CoreCompileInputs.cache
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CopyComplete
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\Services.dll
+E:\Personal Softwares\SocialSchoolService\SSSGit\social-school-network\Services\obj\Debug\Services.pdb
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Services.dll.config
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Services.dll
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Services.pdb
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.dll
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.xml
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Personal Softwares\SSSGit\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\Personal Softwares\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csprojAssemblyReference.cache
+E:\Personal Softwares\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CoreCompileInputs.cache
+E:\Personal Softwares\SSSGit\social-school-network\Services\obj\Debug\SSSRepository.csproj.CopyComplete
+E:\Personal Softwares\SSSGit\social-school-network\Services\obj\Debug\Services.dll
+E:\Personal Softwares\SSSGit\social-school-network\Services\obj\Debug\Services.pdb
+E:\EduHub\social-school-network\Services\obj\Debug\SSSRepository.csprojAssemblyReference.cache
+E:\EduHub\social-school-network\Services\obj\Debug\SSSRepository.csproj.CoreCompileInputs.cache
+E:\EduHub\social-school-network\Services\obj\Debug\Services.dll
+E:\EduHub\social-school-network\Services\obj\Debug\Services.pdb
+E:\EduHub\social-school-network\Services\bin\Debug\Services.dll.config
+E:\EduHub\social-school-network\Services\bin\Debug\Services.dll
+E:\EduHub\social-school-network\Services\bin\Debug\Services.pdb
+E:\EduHub\social-school-network\Services\bin\Debug\EntityFramework.dll
+E:\EduHub\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\EduHub\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\EduHub\social-school-network\Services\bin\Debug\EntityFramework.xml
+E:\EduHub\social-school-network\Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\EduHub\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\EduHub\social-school-network\Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\EduHub\social-school-network\Services\obj\Debug\SSSRepository.csproj.CopyComplete

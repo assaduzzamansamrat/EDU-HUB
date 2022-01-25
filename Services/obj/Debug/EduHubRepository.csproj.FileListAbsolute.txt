@@ -1,0 +1,15 @@
+E:\EduHub\EduHub\Services\bin\Debug\Services.dll.config
+E:\EduHub\EduHub\Services\bin\Debug\Services.dll
+E:\EduHub\EduHub\Services\bin\Debug\Services.pdb
+E:\EduHub\EduHub\Services\bin\Debug\EntityFramework.dll
+E:\EduHub\EduHub\Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\EduHub\EduHub\Services\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\EduHub\EduHub\Services\bin\Debug\EntityFramework.xml
+E:\EduHub\EduHub\Services\bin\Debug\EntityFramework.SqlServer.xml
+E:\EduHub\EduHub\Services\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\EduHub\EduHub\Services\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+E:\EduHub\EduHub\Services\obj\Debug\EduHubRepository.csprojAssemblyReference.cache
+E:\EduHub\EduHub\Services\obj\Debug\EduHubRepository.csproj.CoreCompileInputs.cache
+E:\EduHub\EduHub\Services\obj\Debug\EduHubRepository.csproj.CopyComplete
+E:\EduHub\EduHub\Services\obj\Debug\Services.dll
+E:\EduHub\EduHub\Services\obj\Debug\Services.pdb
